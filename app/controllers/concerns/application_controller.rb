@@ -1,0 +1,3 @@
+ApplicationController < ActionController::Base
+
+end
